@@ -24,8 +24,8 @@ Step 7: Save and run the application.
 /*
 ```
 Program to create and design an android application that draws basic graphical primitives on the screen.
-Developed by:GREFFINA SANCHEZ P
-Registeration Number :212222040048
+Developed by:Vanisha Ramesh
+Registeration Number :212222040174
 ```
 */
 ## activity_main.xml
